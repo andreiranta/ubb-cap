@@ -1,0 +1,10 @@
+{
+    "appId": "com.ranta.ubb",
+    "appName": "ubb",
+    "webDir": "out",
+    "plugins": {
+        "SplashScreen": {
+            "launchAutoHide": true
+        }
+    }
+}
